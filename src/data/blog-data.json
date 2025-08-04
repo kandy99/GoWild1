@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Exploring Rudranath: The Sacred Hilltop",
+      "content": "Detailed article about the pilgrimage and trekking experience to Rudranath, one of the Panch Kedar temples dedicated to Lord Shiva. The trek takes you through dense forests and alpine meadows, offering breathtaking views of the Himalayas. Rudranath is known for the face of Shiva that is worshipped here. It's a journey that tests your endurance and rewards you with spiritual solace and unparalleled natural beauty.",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/9/9d/Aerial_view_of_the_Rudranath_temple%2C_Panch_Kedar%2C_Uttarakhand.jpg",
+        "https://temple.yatradham.org/public/Product/temple/temple_isvAPXHE_202408141451240.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/5f/Rudranath_temple.jpg",
+        "https://www.balajinerul.com/jpg/rudranath-temple-uttarakhand-panch-kedar.jpg"
+      ],
+      "date": "2025-07-15",
+      "author": "Travel Guru"
+    },
+    {
+      "id": 2,
+      "title": "A Journey Through Rooptal",
+      "content": "Experience the tranquil beauty and local culture of Rooptal, a lesser-known gem in the Garhwal Himalayas. This high-altitude lake is surrounded by lush greenery and offers a peaceful retreat away from the crowded tourist spots. The journey to Rooptal is as beautiful as the destination itself, with opportunities to interact with local villagers and learn about their way of life.",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Roopkund_Lake.jpg/1200px-Roopkund_Lake.jpg",
+        "https://himalayatrekker.com/wp-content/uploads/2019/08/roopkund-lake-skeletal-mystery-revelation.jpg"
+      ],
+      "date": "2025-08-01",
+      "author": "Travel Blogger"
+    }
+  ]
+}

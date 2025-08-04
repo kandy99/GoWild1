@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Clothing",
+      "items": [
+        "Waterproof trekking shoes",
+        "Lightweight wool sweaters",
+        "Waterproof jacket and pants",
+        "T-shirts and trekking pants",
+        "Thermal innerwear",
+        "Woolen socks",
+        "Sun hat and woolen cap",
+        "Gloves or mittens"
+      ]
+    },
+    {
+      "name": "Trekking Gear",
+      "items": [
+        "Backpack with rain cover",
+        "Trekking poles",
+        "Headlamp or flashlight",
+        "Water bottle or hydration pack",
+        "Daypack for short hikes"
+      ]
+    },
+    {
+      "name": "Documents & Essentials",
+      "items": [
+        "Government-issued ID (Aadhaar, Passport)",
+        "Printed travel itinerary",
+        "Cash (ATMs may be scarce)",
+        "Mobile phone and power bank"
+      ]
+    },
+    {
+      "name": "Health & First Aid",
+      "items": [
+        "Personal medications",
+        "Basic first-aid kit (band-aids, antiseptic)",
+        "Pain relievers (Ibuprofen, Paracetamol)",
+        "Sunscreen and lip balm with SPF",
+        "Insect repellent",
+        "Hand sanitizer"
+      ]
+    },
+    {
+      "name": "Electronics & Gadgets",
+      "items": [
+        "Camera and extra batteries",
+        "Portable charger/power bank",
+        "Binoculars for wildlife viewing",
+        "Universal travel adapter"
+      ]
+    }
+  ]
+}
