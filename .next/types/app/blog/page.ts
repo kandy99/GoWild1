@@ -1,4 +1,4 @@
-// File: C:\Go Wild\download\src\app\blog\page.tsx
+// File: C:\Go Wild\GoWild\src\app\blog\page.tsx
 import * as entry from '../../../../src/app/blog/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
